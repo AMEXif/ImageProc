@@ -22,4 +22,8 @@ struct Image {
 	bool write(const char* filename);
 
 	ImageType getImageType(const char* filename);
+
+	Image& grayscale_avg();
+	Image& grayscale_lum();
+
 };
