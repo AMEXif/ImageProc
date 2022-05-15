@@ -1,3 +1,3 @@
 # ImageProc
 
-just tryna have fun with image processing (´ ∀ ` *)
+Just tryna have fun with image processing (´ ∀ ` *)
